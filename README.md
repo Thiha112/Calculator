@@ -10,4 +10,5 @@ Calculator project initial `version of 0.0.1` alpha which allows you to calculat
 
 
 #### My FaceBook Profile :man_technologist:
-`https://www.facebook.com/programmer.thiha`
+https://www.facebook.com/programmer.thiha
+{: .alert .alert-gitlab-purple}
