@@ -1,7 +1,17 @@
 # Calculator
 Calculator project initial `version of 0.0.1` alpha which allows you to calculate standard calculations. :copyright: AungThiha
 
-:zero: :one: :two: :three: :four: :five: :six: :seven: :eight: :nine: :keycap_ten:
+
+:zero: :one: :two: :three: :four: :five: :six: :seven: :eight: :nine: :keycap_ten: 
+
+
+| Languages used  | Percentages  | 
+|-----------------|:-------------|
+| C++             |     80%      |
+|-----------------+--------------|
+| QMake           |     10%      |
+|-----------------+--------------|
+| UI              |     10%      |
 
 
 ### Testing Video
@@ -11,4 +21,3 @@ Calculator project initial `version of 0.0.1` alpha which allows you to calculat
 
 #### My FaceBook Profile :man_technologist:
 https://www.facebook.com/programmer.thiha
-{: .alert .alert-gitlab-purple}
