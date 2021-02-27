@@ -6,10 +6,7 @@ Calculator project initial `version of 0.0.1` alpha which allows you to calculat
 
 ### Testing Video
 
-<figure class="video_container">
-  <iframe src="http://www.youtube.com/watch?v=DHBVx2mURvQ&t=3s"; frameborder="0"; allowfullscreen="true"> </iframe>
-</figure>
-[![](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID)
+[![](https://github.com/Thiha112/Calculator/blob/main/Calculator_version_0.0.1.png)](http://www.youtube.com/watch?v==DHBVx2mURvQ&t=3s)
 
 
 #### My FaceBook Profile :man_technologist:
